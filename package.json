@@ -1,0 +1,19 @@
+{
+  "name": "anything-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lcyuhe/anything-sdk.git"
+  },
+  "author": "lcyuhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcyuhe/anything-sdk/issues"
+  },
+  "homepage": "https://github.com/lcyuhe/anything-sdk#readme"
+}
